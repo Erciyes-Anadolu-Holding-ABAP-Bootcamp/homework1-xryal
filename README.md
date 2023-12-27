@@ -7,5 +7,5 @@
 ### 5. job kurma arastir dokuman hazirla
 ### 6. gunde 1 kere calisacak bir job olustur.
 
-
+### NOT: PDF açılmazsa sayfada geri dönüp tekrardan ilgili PDF dosyasına tıklayabillirsiniz.
 ### NOT: Ödevlerdeki Sayfaların hepsini görmek için pdf'in en altındaki kısımda More Pages butonuna tıklayın.
